@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ritheesh Miridoddi
+# 👋 Hi, I’m Ritheesh Miridoodi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritheesh%20Miridoddi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ritheesh-miridoodi-2124222bb/)
 [![Email](https://img.shields.io/badge/Email-ritheeshm.2000@gmail.com-red?style=flat-square&logo=gmail)](mailto:ritheeshm.2000@gmail.com)
